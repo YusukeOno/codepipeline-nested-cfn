@@ -450,7 +450,7 @@ Resources:
                 -
                   Name: CFNTemplateOutput
               Configuration:
-                BranchName: master
+                BranchName: main
                 RepositoryName:
                   Ref: CFNTemplateRepoName
               RunOrder: 1
@@ -465,7 +465,7 @@ Resources:
                 -
                   Name: TestArtifacts
               Configuration:
-                BranchName: master
+                BranchName: main
                 RepositoryName:
                   Ref: ValidateResourcesRepoName
               RunOrder: 1
