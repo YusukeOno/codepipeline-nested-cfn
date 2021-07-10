@@ -17,6 +17,6 @@
   },
   {
   "ParameterKey": "ArtifactStoreS3Location",
-  "ParameterValue": "cfnstackname-S3Bucket-r1nd0m3h2s"
+  "ParameterValue": "cfnstackname-s3bucket-r1nd0m3h2s"
   }
 ]
