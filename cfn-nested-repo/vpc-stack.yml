@@ -95,7 +95,7 @@ Resources:
       CidrBlock:
         Ref: PublicSubnet2
       AvailabilityZone:
-        Fn::Sub: ${AWS::Region}b
+        Fn::Sub: ${AWS::Region}c
       MapPublicIpOnLaunch: true
       Tags:
         - Key: Name
@@ -124,7 +124,7 @@ Resources:
       CidrBlock:
         Ref: PrivateSubnet2
       AvailabilityZone:
-        Fn::Sub: ${AWS::Region}b
+        Fn::Sub: ${AWS::Region}c
       Tags:
         - Key: Name
           Value:
