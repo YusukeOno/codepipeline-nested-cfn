@@ -6,7 +6,7 @@
     "PrivateSubnet2": "subnet-dcba2226",
     "PublicSubnet1": "subnet-abcd1bbb",
     "PublicSubnet2": "subnet-9069abcd",
-    "S3BucketName": "com-amazon-demo-codepipeline-blog",
+    "S3BucketName": "nestedcfn-basestack-s3bucket-5tf0e5iahh2m",
     "KeyPair": "codepipeline-demo",
     "AMIId": "ami-e5083683",
     "WebInstanceType": "t2.large",
